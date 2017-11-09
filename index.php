@@ -69,9 +69,9 @@
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item active"><a class="nav-link" href="index.html">Home</a></li>
                         <div class="dropdown">
-                            <li class="nav-item"><a class="nav-link" href="page/Visi%20&%20Misi.html">Visi dan Misi</a></li>
+                            <li class="nav-item"><a class="nav-link" href="page/Visi%20&%20Misi.php">Visi dan Misi</a></li>
                             <div class="dropdown-content">
-                                <a class="nav-link" href="page/Visi%20&%20Misi.html">Visi dan Misi</a>
+                                <a class="nav-link" href="page/Visi%20&%20Misi.php">Visi dan Misi</a>
                                 <a href="page/Tujuan%20&%20Sasaran.html">Tujuan dan Sasaran</a>
                                 <a href="page/Rencana%20Strategis.html">Rencana Strategis</a>
                             </div>
