@@ -67,13 +67,13 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarContent">
                     <ul class="navbar-nav mr-auto">
-                        <li class="nav-item active"><a class="nav-link" href="index.html">Home</a></li>
+                        <li class="nav-item active"><a class="nav-link" href="index.php">Home</a></li>
                         <div class="dropdown">
                             <li class="nav-item"><a class="nav-link" href="page/Visi%20&%20Misi.php">Visi dan Misi</a></li>
                             <div class="dropdown-content">
                                 <a class="nav-link" href="page/Visi%20&%20Misi.php">Visi dan Misi</a>
-                                <a href="page/Tujuan%20&%20Sasaran.html">Tujuan dan Sasaran</a>
-                                <a href="page/Rencana%20Strategis.html">Rencana Strategis</a>
+                                <a href="page/Tujuan%20&%20Sasaran.php">Tujuan dan Sasaran</a>
+                                <a href="page/Rencana%20Strategis.php">Rencana Strategis</a>
                             </div>
                         </div>
 
@@ -98,8 +98,8 @@
 							<a class="nav-link" href="#">Penelitian dan Pengabdian</a>
 							</li>
 							<div class="dropdown-content">
-							  <a class="nav-link" href="/page/penelitian.html">Penelitian dan Pengabdian</a>
-							  <a href="/page/Kerjasama.html">Kerjasama</a>
+							  <a class="nav-link" href="page/penelitian.php">Penelitian dan Pengabdian</a>
+							  <a href="page/Kerjasama.php">Kerjasama</a>
 							</div>
 						</div>
                     </ul>
